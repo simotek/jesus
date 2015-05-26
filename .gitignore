@@ -1,0 +1,4 @@
+build/
+*.eo.h
+*.eo.legacy.h
+*.eo.x
